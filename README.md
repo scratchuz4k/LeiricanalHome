@@ -18,3 +18,4 @@ Nova aprensetação digital da empresa com o objectivo de manter a empresa atual
 
 ## Frameworks e/ou Estilos
 - Bootstrap 4.0
+- Laravel 7.23.0
